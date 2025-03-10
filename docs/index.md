@@ -1,0 +1,2 @@
+Ce cours est uniquement disponible en [français](/fr/) pour le moment; j’espère pouvoir bientôt mettre à disposition une version en [anglais](/en/).
+This course is only available in [french](/fr/) for now; I hope to be able to translate it to [english](/en/) shortly.

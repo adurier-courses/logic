@@ -1,0 +1,2 @@
+This course is not yet available in English, as it is still very much a work in progress.
+For now, please go back to the [french version of this course](https://logic.durier.xyz/fr/), or consider other online logic courses: **TODO**
