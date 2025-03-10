@@ -1,1 +1,8 @@
-# logic
+# Introduction to Logic for Computer Science
+
+This is the repository for the course 'Introduction to Logic for Computer Science' I teach since 2023 at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/) in L3 (3rd year computer science degree). I will try to create a full course online, but this is very much work in progress and not at all complete for now.
+
+As is customary in academia, this course is free to be used by any student over the world, as well as any teacher (in academia or other) to use parts of it (exercices, slides) in his course, if only because it itself is based on works of the previous teachers of this course at my university, as well as numerous online courses, and even the courses where I did myself learn on the subject (at Ecole Normale Supérieure de Lyon). Furthermore, none of the results taught in this course are my own scientific production, but are rather based on published scientific paper and public academic knowledge. This work is thus under CC0 1.0 Universal (Creative Commons non-commercial licence for documentation). If large parts of this course were to be used ‘as is’ by another teacher, a shoutout would be nice - but not legally required. 
+
+[This logic textbook](https://logic.durier.xyz/) ([sources hosted on github](https://github.com/adurier-courses/logic)) by [Adrien Durier](http://adrien.durier.xyz/) is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1)<a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a>
+
