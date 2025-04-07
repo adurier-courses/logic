@@ -1,29 +1,29 @@
 
 > [!abstract annotate]+ Programme de révision du partiel
 > 1. Fondamentaux
-> 2.  Connecteurs usuels ($\land,~\lor,~\Rightarrow,~\Leftrightarrow,~\neg,~\top,~\bot,~\exists,~\forall$)
+> 	- Connecteurs usuels ($\land,~\lor,~\Rightarrow,~\Leftrightarrow,~\neg,~\top,~\bot,~\exists,~\forall$)
 > 		- Priorités, associativité
 > 		- Traduire (français $\rightarrow$ logique - et - logique $\rightarrow$ francais)
 > 		- Identité remarquables (logique propositionnelle **et** 1er ordre) (1)
-> 	1. Vérité
+> 	- Vérité
 > 		- Notion de formule **valide** (tautologie), **satisfiable**, **insatisfiable**
-> 	1. Logique Propositionnelle
+> 	- Logique Propositionnelle
 > 		- Tables de vérité
 > 			- Lien avec valide, satisfiable, insatisfiable
 > 		- Modéliser un problème en logique propositionnelle
-> 1. Langage Logique
+> 2. Langage Logique
 > 	- Arbre de syntaxe
 > 	- Notion d'*égalité stricte* (2) vs. *égalité sémantique* (3)
 > 	- Variables **libres** et **liées**
 > 		- Substitution (4), renommage (5)
 > 		- Formule close (et valeur de vérité)
-> 1. Sens des formules logiques
-> 2.  Notions:
+> 3. Sens des formules logiques
+> 	- Notions:
 > 		- Modèles
 > 		- Interprétations
-> 	1. Validité et satisfiabilité des formules (1er ordre)
-> 	2. Construire et interpréter des modèles de relations (voir exercices)
-> 43. éduction: Système des séquents (6)
+> 	- Validité et satisfiabilité des formules (1er ordre)
+> 	- Construire et interpréter des modèles de relations (voir exercices)
+> 4. Déduction: Système des séquents (6)
 > 	- Comprendre la notation en système d'inférences
 > 	- Traduire un séquent en formule
 > 	- Lien entre calcul des séquents et vérité
