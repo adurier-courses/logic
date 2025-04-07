@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LICENSE.md",
+                "file": "projects/fr/docs/home/partiel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LICENSE"
+              "title": "partiel"
             }
           }
         ],
@@ -184,9 +184,10 @@
   },
   "active": "82cef26d215066c1",
   "lastOpenFiles": [
-    "projects/fr/overrides/partials/copyright.html",
-    "LICENSE.md",
     "projects/fr/mkdocs.yml",
+    "projects/fr/docs/home/partiel.md",
+    "LICENSE.md",
+    "projects/fr/overrides/partials/copyright.html",
     "README.md",
     "projects/fr/docs/about/license.md",
     "projects/fr/docs/index.md",
