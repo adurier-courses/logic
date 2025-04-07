@@ -7,6 +7,7 @@ nav:
     - index.md
     - Fonctionnement du cours: 
         - home/index.md
+        - Partiel: home/partiel.md
         - Moodle (devoirs/questions)↗: 'https://moodle.durier.xyz'
     - Ressources: 
         - resources/index.md
